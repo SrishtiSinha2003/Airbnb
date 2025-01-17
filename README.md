@@ -1,3 +1,12 @@
+  A    III  RRRR   BBBBB   N   N  BBBBB
+ A A    I   R   R  B    B  NN  N  B    B
+AAAA    I   RRRR   BBBBB   N N N  BBBBB
+A   A   I   R  R   B    B  N  NN  B    B
+A   A   III  R   R  BBBBB   N   N  BBBBB
+
+
+
+
 AIRBNB is a comprehensive travel platform designed for adventurers and explorers who want to discover and share extraordinary places around the world. Built with the powerful MERN (MongoDB, Express, React, and Node.js) stack, Wanderlust offers a seamless and secure user experience for both casual travelers and serious wanderers.
 
 Our platform allows users to:✨
