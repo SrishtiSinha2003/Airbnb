@@ -1,1 +1,1 @@
-# 🌍 **Wanderlust** - Your Ultimate Travel Platform ✈️
+### 🌍 **Wanderlust** - Your Ultimate Travel Platform ✈️
