@@ -37,6 +37,6 @@ After forking, clone the repository to your local machine:
 git clone https://github.com/your-username/Airbnb.git
 
 Navigate to the project directory:
-```bash
+
 cd Airbnb
 
