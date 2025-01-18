@@ -37,8 +37,4 @@ After forking, clone the repository to your local machine:
 git clone https://github.com/your-username/Airbnb.git
 
 Navigate to the project directory:
-
 cd Airbnb
-
-### 3. 🌿 **Create a New Branch**:
-Create a new branch for your feature or fix:
